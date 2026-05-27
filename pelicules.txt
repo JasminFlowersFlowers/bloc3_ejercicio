@@ -1,7 +1,4 @@
 La vida de Brian
-<<<<<<< HEAD
 Monty Python and the Holy Grail
-=======
 Pixeles
->>>>>>> origin/main
-Interstellar
+El sentido de la vida
